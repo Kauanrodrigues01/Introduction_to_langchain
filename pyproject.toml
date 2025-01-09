@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "ia-master"
+version = "0.1.0"
+description = "Aprendendo sobre IAs e como utilizá-las"
+authors = ["Kauanrodrigues01m <kauanrl09@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+langchain-groq = "^0.2.3"
+python-decouple = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
