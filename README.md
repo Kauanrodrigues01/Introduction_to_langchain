@@ -1,4 +1,4 @@
-# Introduction to LangChain
+# Introduction to LangChain 🦜
 
 Iniciando com **LangChain**, uma biblioteca poderosa para construir aplicações baseadas em modelos de linguagem. Durante este aprendizado, explorei conceitos básicos e práticas fundamentais, incluindo:
 
