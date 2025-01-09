@@ -10,6 +10,7 @@ readme = "README.md"
 python = "^3.13"
 langchain-groq = "^0.2.3"
 python-decouple = "^3.8"
+langchain-community = "^0.3.14"
 
 
 [build-system]
